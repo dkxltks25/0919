@@ -1,6 +1,0 @@
-Script started on Thu Sep 19 08:41:43 2019
-[?1034hbash-3.2$ 
-bash-3.2$ s[Kㄴ[Kasd[K[K[Ksa[K[Kexit
-exit
-
-Script done on Thu Sep 19 08:42:11 2019
